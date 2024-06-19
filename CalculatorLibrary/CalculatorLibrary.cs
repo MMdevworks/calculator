@@ -1,5 +1,4 @@
-﻿namespace CalculatorLibrary;
-
+﻿namespace CalculatorLibrary {
 public class Calculator
 {
     public static double DoOperation(double num1, double num2, string op)
@@ -31,4 +30,4 @@ public class Calculator
         }
         return result;
     }
-}
+}}
